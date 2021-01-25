@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "999438067392",
+    "firebase_url": "https://fitnessfreakapp-e6768.firebaseio.com",
+    "project_id": "fitnessfreakapp-e6768",
+    "storage_bucket": "fitnessfreakapp-e6768.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:999438067392:android:514b26a1ffdc47e17e2f25",
+        "android_client_info": {
+          "package_name": "com.example.fitnessfreakapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "999438067392-lheqn3jnnjd0me1mgl5buur7cdn3qqgs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBECV_NFhCtFY7Tcy9ZwjWZuUc56MO3rPY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "999438067392-lheqn3jnnjd0me1mgl5buur7cdn3qqgs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
